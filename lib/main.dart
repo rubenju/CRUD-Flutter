@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/config/dbhelper.dart';
+import 'package:flutter_application_1/dbhelper.dart';
 
 void main() {
   runApp(const MyApp());
